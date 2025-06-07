@@ -21,7 +21,7 @@ input, button {
 }
 
 button {
-  background-color: #0066cc;
+  background-color: black;
   color: white;
   border: none;
   cursor: pointer;
@@ -29,5 +29,5 @@ button {
 }
 
 button:hover {
-  background-color: #004c99;
+  background-color: #55585a;
 }
